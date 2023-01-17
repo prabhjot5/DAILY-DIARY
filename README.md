@@ -24,16 +24,16 @@ Advance python was discussed various functions classes and the technologies were
 
 WEEK 3
 
-Introduction to HTML was started technology in HTML was discovered CSS was also discussed and explain
+Introduction to machine learning was started, technologies in it was discovered. pandas, keras was also discussed and explain
 
 WEEK 4
 
-Web pages were given to us to build. basic  web development was started. we exercise difference pages and technologies around it
+model were given to us to build. basic development was started. we exercise difference pages and technologies around it.
 
 
 SEPTEMBER WEEK 1
 
-A software was proposed to the company which was quite to build we were awang the team that was going to start the early development of the software the project was given by zebi enterprise of Thane
+A software was proposed to the company which was required to build we were among the team that was going to start the early development of the software the project was given by zebi enterprise of Thane
 
 
 WEEK 2
@@ -54,7 +54,7 @@ Work started on the project in full fledge. The started working on the python fi
 
 OCT0BER WEEK 1
 
-Designing the web pages of the web applications your guided by the professor be felt neet
+Designing the interface pages of the applications your guided by the professor.
 
 
 WEEEK 2
@@ -65,13 +65,13 @@ We had a lot of blockheads in the web tool which was sorted out by the gulf sir 
 
 WEEK 3
 
-The Tool was polished by the professors and developers in infocus and it was close to completion
+The Tool was polished by the professors and developers and it was close to completion
 
 
 
 WEEK 4
 
-We compiled all the program and assemble the web application are ab application was ready to host
+We compiled all the program and assemble the  application . application was ready to host
 
 
 
